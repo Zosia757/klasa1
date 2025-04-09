@@ -85,7 +85,7 @@ class PojazdHybrydowy:
 
     def uruchom_silnik(self):
         self.silnik.uruchom()
-        print("Pojazd hybrydowy jest gotowy do jazdy!")
+        print("Pojazd hybrydowy jest gotowy do jazdy! ")
 
 
 class TestPojazdów:

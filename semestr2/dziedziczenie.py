@@ -9,7 +9,7 @@ class Pojazd:
         print(f"To jest {self.marka} {self.model}, {self.rok_produkcji} r., kolor: {self.kolor}.")
 
     def uruchom_silnik(self):
-        print(f"Silnik {self.marka} {self.model} uruchomiony!")
+        print(f"Silnik {self.marka} {self.model} uruchomiony! ")
 
 
 class SamochodOsobowy(Pojazd):
